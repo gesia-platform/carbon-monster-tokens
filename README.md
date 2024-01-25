@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-The Voucher1155DerivativeToken Smart Contract is a versatile blockchain-based platform for issuing and managing voucher Derivative Tokens (Non-Fungible Tokens). Deployed on the Gesia network, this contract allows for the creation, sale, and transfer of voucher Derivative Tokens in a secure and decentralized manner. It integrates with OpenZeppelin libraries and other external interfaces for enhanced functionality.
+The Voucher1155DerivativeToken Smart Contract is a versatile blockchain-based platform for issuing and managing voucher Derivative Tokens. Deployed on the Gesia network, this contract allows for the creation, sale, and transfer of voucher Derivative Tokens in a secure and decentralized manner. It integrates with OpenZeppelin libraries and other external interfaces for enhanced functionality.
 
 ## ✨ Features
 
