@@ -13,7 +13,7 @@ import "../operator/IOperator.sol";
 import "../fee/IFeeManager.sol";
 import "../price/IPrice.sol";
 
-contract Carbon1155Nft is ERC1155, ReentrancyGuard, IPrice {
+contract Carbon1155DerivativeToken is ERC1155, ReentrancyGuard, IPrice {
     using Strings for string;
     using SafeMath for uint256;
     using Counters for Counters.Counter;

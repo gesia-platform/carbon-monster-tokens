@@ -14,7 +14,7 @@ import "./IMintOperator.sol";
 import "../operator/IOperator.sol";
 import "../fee/IFeeManager.sol";
 
-contract Voucher1155Nft is ERC1155, IMintOperator, ReentrancyGuard, IPrice, Ownable {
+contract Voucher1155DerivativeToken is ERC1155, IMintOperator, ReentrancyGuard, IPrice, Ownable {
     using Strings for string;
     using SafeMath for uint256;
     using Counters for Counters.Counter;
